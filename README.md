@@ -70,7 +70,7 @@ I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands
 ## Contact  
 
 📍 Lisbon, Portugal  
-🔗 [LinkedIn – Lívia Faria Carvalho](https://www.linkedin.com/in/líviafariacarvalho)  
+🔗 [LinkedIn – Lívia Faria Carvalho](https://www.linkedin.com/in/livia-fcarvalho)  
 ✉️ liviajpa3@hotmail.com 
 
 ---

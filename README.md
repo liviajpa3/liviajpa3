@@ -1,16 +1,78 @@
-## Hi there 👋
+</p><h1 align="center">👋 Hi, I'm Lívia Carvalho</h1>
 
-<!--
-**liviajpa3/liviajpa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <b>QA Analyst | Quality Assurance | Software Testing | Manual & Automated Tests</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/livia-fcarvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me  
+
+I hold a **Bachelor’s degree in Management** and an **MBA in Project Management**, with solid experience in **process analysis and control, strategic planning, and corporate communication**.  
+After several years in strategic roles, I decided to transition my career to the field of **Software Quality Assurance**, combining my analytical mindset and process-driven approach with technology.
+
+I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands-on projects** focused on manual and automated testing, covering the complete QA cycle — from test case design and execution to bug documentation and automation of regression tests.
+
+---
+
+## Software Quality Projects  
+
+### 🔹 [Urban Routes](#)
+- **Manual and automated testing** of a web routing application  
+- Performed **functional, exploratory, and regression testing**  
+- Test automation using **Python + Selenium + Pytest**  
+- Bug tracking and reporting with **Jira**
+
+### 🔹 [Urban Lunch](#)
+- Mobile testing in **Android Studio (Pixel 5 Emulator)**  
+- Designed **checklists, test cases, and bug reports**  
+- Requirement validation and flow testing based on **Figma prototypes**
+
+### 🔹 [Urban Scooter](#)
+- **Integration testing** across Web, Mobile, and API layers  
+- API validation using **Postman**  
+- Automated regression tests with **Pytest**
+
+---
+
+## Tools & Technologies  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40" />
+</p>
+
+---
+
+## Currently Learning  
+- Test automation using **Python + Selenium + Pytest**  
+- **API testing** with Postman and Pytest  
+- **SQL** for data validation  
+- **Mobile testing** on Android Studio  
+
+---
+
+## Contact  
+
+📍 Lisbon, Portugal  
+🔗 [LinkedIn – Lívia Faria Carvalho](https://www.linkedin.com/in/líviafariacarvalho)  
+✉️ liviajpa3@hotmail.com 
+
+---
+
+*This repository serves as my technical portfolio — featuring practical projects, study materials, and automation work focused on Software Quality Assurance.*

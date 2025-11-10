@@ -6,22 +6,25 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/livia-fcarvalho/" target="_blank">
+  <a href="https://www.linkedin.com/in/livia-fcarvalho/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;
+  
   <!-- Email -->
-  <a href="mailto:liviajpa3@hotmail.com" target="_blank">
+  <a href="mailto:liviajpa3@hotmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/liviajpa" target="_blank">
+  <a href="https://discordapp.com/users/liviajpa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  &nbsp;
 
   <!-- GitHub -->
-  <a href="https://github.com/liviajpa3" target="_blank">
+  <a href="https://github.com/liviajpa3" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

@@ -1,17 +1,29 @@
 </p><h1 align="center">👋 Hi, I'm Lívia Carvalho</h1>
 
 <p align="center">
-   <b>QA Analyst | Quality Assurance | Software Testing | Manual & Automated Tests</b>
+   <b>QA Analyst | Quality Assurance | Manual & Automated Tests</b>
 </p>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/livia-fcarvalho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:liviajpa3@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/liviajpa" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/liviajpa3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,7 +37,9 @@ I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands
 
 ---
 
-## Software Quality Projects  
+## Software Quality Projects
+
+These are some of my **featured projects**:
 
 ### 🔹 [Urban Routes](#)
 - **Manual and automated testing** of a web routing application  
@@ -45,16 +59,25 @@ I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands
 
 ---
 
-## Tools & Technologies  
+## Tools & Technologies 
 
-<p align="center">| Python | Selenium | Pytest | MYSQL | Postman | Github | Pycharm |
+<p align="center">
+  | Python | Selenium | Pytest | MySQL | Postman | GitHub | PyCharm |
+</p>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40" />
 </p>
 

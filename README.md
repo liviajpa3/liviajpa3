@@ -94,11 +94,9 @@ These are some of my **featured projects**:
 
 ---
 
-## Contact  
+## Location
 
-📍 Lisbon, Portugal  
-🔗 [LinkedIn – Lívia Faria Carvalho](https://www.linkedin.com/in/livia-fcarvalho)  
-✉️ liviajpa3@hotmail.com 
+📍 Based in Lisbon, Portugal
 
 ---
 

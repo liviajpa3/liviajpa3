@@ -33,7 +33,7 @@
 
 ## About Me  
 
-I hold a **Bachelor’s degree in Management** with **MBA in Project Management** and **certified by ISTQB® CTFL**, with solid experience in **process analysis and control, strategic planning, and corporate communication**.  
+I hold a **Bachelor’s degree in Management** with **MBA in Project Management** and **certified by ISTQB® CTFL**. Extensive experience across diverse sectors, including **software testing**, **SAP**, **Oracle**, procurement, sales, project and contract management, strategic planning, process analysis, and corporate communication.  
 After several years in strategic roles, I decided to transition my career to the field of **Software Quality Assurance**, combining my analytical mindset and process-driven approach with technology.
 
 I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands-on projects** focused on manual and automated testing, covering the complete QA cycle — from test case design and execution to bug documentation and automation of regression tests.
